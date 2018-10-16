@@ -1,0 +1,38 @@
+/**
+*
+* ---------------------------------------------------------------------------
+*
+* Template Name: 
+* Template URI:	
+* Author : 
+* Description: 
+* Version : 1.0
+*
+* --------------------------------------------------------------------------- 
+*
+*/
+
+/* CSS files
+====================== */
+/***** ----- bootstrap css ----- *****/
+@import url('css/bootstrap.min.css');
+/***** ----- font awesome css ----- *****/
+@import url('css/font-awesome.min.css');
+/***** ----- normalize css ----- *****/
+@import url('css/normalize.css');
+/***** ----- slicknav css ----- *****/
+@import url('css/slicknav.min.css');
+/***** ----- hover css ----- *****/
+@import url('css/hover.css');
+/***** ----- owl carousel css ----- *****/
+@import url('css/owl.carousel.min.css');
+/***** ----- animate css ----- *****/
+@import url('css/animate.min.css');
+/***** ----- lightbox css ----- *****/
+@import url('css/lightbox.min.css');
+/***** ----- jquery ui css ----- *****/
+@import url('css/jquery-ui.min.css');
+/***** ----- main css ----- *****/
+@import url('css/main.css');
+/***** ----- responsive css ----- *****/
+@import url('css/responsive.css');

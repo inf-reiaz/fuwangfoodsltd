@@ -1,0 +1,42 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?z2rmkb');
+  src:  url('fonts/icomoon.eot?z2rmkb#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?z2rmkb') format('truetype'),
+    url('fonts/icomoon.woff?z2rmkb') format('woff'),
+    url('fonts/icomoon.svg?z2rmkb#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Employee:before {
+  content: "\e900";
+  color: #ef1f23;
+}
+.icon-Factory:before {
+  content: "\e901";
+  color: #ef1f23;
+}
+.icon-Products:before {
+  content: "\e902";
+  color: #ef1f23;
+}
+.icon-Team:before {
+  content: "\e903";
+  color: #ef1f23;
+}
