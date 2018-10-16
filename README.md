@@ -1,3 +1,3 @@
-# fuwangfoodsltd fuwangfoods project
+# fuwangfoodsltd
 
-<a href="http://www.fuwangfoodsltd.com/"> FuWang Foods </a>
+<a href="http://www.fuwangfoodsltd.com/"> Fu-Wang Foods </a>
